@@ -96,7 +96,7 @@ export default function Weather() {
         </div>
         <small className="small">
           <a
-            href="https://github.com/AnniLix/empty-folder"
+            href="https://github.com/AnniLix/weather-react-app"
             target="_blank"
             rel="noopener noreferrer"
             className="source"

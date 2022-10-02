@@ -98,7 +98,7 @@ export default function Weather() {
           <a
             href="https://github.com/AnniLix/empty-folder"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="source"
           >
             Open-source code
